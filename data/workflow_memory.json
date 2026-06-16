@@ -1,0 +1,12 @@
+{
+    "research_workflow": [
+        {
+            "intent": "open_app",
+            "target": "firefox"
+        },
+        {
+            "intent": "google_search",
+            "query": "robotics research papers"
+        }
+    ]
+}

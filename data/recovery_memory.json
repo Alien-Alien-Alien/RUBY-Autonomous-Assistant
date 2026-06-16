@@ -1,0 +1,6 @@
+{
+    "{'intent': 'open_app'}": {
+        "intent": "open_app",
+        "target": "firefox"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "terminal": {
+        "success": 11,
+        "failure": 1
+    },
+    "python": {
+        "success": 0,
+        "failure": 1
+    },
+    "google_search": {
+        "success": 20,
+        "failure": 0
+    },
+    "open_app": {
+        "success": 7,
+        "failure": 0
+    },
+    "file": {
+        "success": 4,
+        "failure": 3
+    },
+    "message": {
+        "success": 0,
+        "failure": 1
+    },
+    "text_response": {
+        "success": 0,
+        "failure": 1
+    },
+    "explain": {
+        "success": 0,
+        "failure": 1
+    },
+    "open_website": {
+        "success": 3,
+        "failure": 0
+    },
+    "say_funny_joke": {
+        "success": 0,
+        "failure": 1
+    },
+    "say_joke": {
+        "success": 0,
+        "failure": 1
+    },
+    "window": {
+        "success": 20,
+        "failure": 2
+    },
+    "screen": {
+        "success": 20,
+        "failure": 4
+    },
+    "keyboard": {
+        "success": 11,
+        "failure": 1
+    }
+}

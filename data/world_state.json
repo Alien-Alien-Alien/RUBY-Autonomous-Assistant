@@ -1,0 +1,15 @@
+{
+    "last_terminal_command": "pwd",
+    "last_task": {
+        "intent": "keyboard",
+        "target": "enter",
+        "query": ""
+    },
+    "last_result": {
+        "success": true
+    },
+    "active_app": "firefox",
+    "last_search": "funny jokes",
+    "current_website": "github",
+    "last_file_operation": "list"
+}

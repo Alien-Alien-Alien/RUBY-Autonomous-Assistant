@@ -1,0 +1,31 @@
+{
+    "recover voice system": [
+        {
+            "strategy": [
+                "open firefox",
+                "search troubleshooting"
+            ],
+            "successes": 7,
+            "failures": 1
+        },
+        {
+            "strategy": [
+                "restart plugin"
+            ],
+            "successes": 3,
+            "failures": 4
+        }
+    ],
+    "{'intent': 'open_app', 'target': 'firefox'}": [
+        {
+            "strategy": [
+                {
+                    "intent": "open_app",
+                    "target": "firefox"
+                }
+            ],
+            "successes": 1,
+            "failures": 0
+        }
+    ]
+}

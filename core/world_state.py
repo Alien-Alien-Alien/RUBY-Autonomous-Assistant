@@ -1,0 +1,69 @@
+import json
+
+
+STATE_FILE = (
+    "data/world_state.json"
+)
+
+
+def load_state():
+
+    try:
+
+        with open(
+            STATE_FILE,
+            "r"
+        ) as file:
+
+            return json.load(file)
+
+    except:
+
+        return {
+
+            "active_app": None,
+
+            "current_url": None,
+
+            "current_directory": None,
+
+            "last_task": None,
+
+            "last_result": None,
+
+            "screen_context": None
+        }
+
+
+world_state = load_state()
+
+
+def save_state():
+
+    with open(
+        STATE_FILE,
+        "w"
+    ) as file:
+
+        json.dump(
+            world_state,
+            file,
+            indent=4
+        )
+
+
+def update_state(
+
+    key,
+
+    value
+):
+
+    world_state[key] = value
+
+    save_state()
+
+
+def get_state():
+
+    return world_state

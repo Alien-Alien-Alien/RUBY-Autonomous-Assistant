@@ -1,0 +1,1479 @@
+[
+    {
+        "timestamp": "2026-05-28 21:22:59.652886",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:22:59.679637",
+        "task": {
+            "intent": "python",
+            "target": "run",
+            "query": "missing_file.py"
+        },
+        "result": {
+            "success": false,
+            "stdout": "",
+            "stderr": "python3: can't open file '/home/ahilan/ai-assistant/missing_file.py': [Errno 2] No such file or directory\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:30:43.622700",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:30:43.650973",
+        "task": {
+            "intent": "python",
+            "target": "run",
+            "query": "missing_file.py"
+        },
+        "result": {
+            "success": false,
+            "stdout": "",
+            "stderr": "python3: can't open file '/home/ahilan/ai-assistant/missing_file.py': [Errno 2] No such file or directory\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:32:41.652335",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "robotics research papers"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:53:30.201916",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 21:55:26.115681",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 22:05:56.032841",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 22:06:06.584517",
+        "task": {
+            "intent": "google_search",
+            "query": "robotics research papers"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 22:06:44.722162",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-28 22:06:55.490432",
+        "task": {
+            "intent": "google_search",
+            "query": "robotics research papers"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:03:20.733207",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "robotics research papers"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:25:41.619698",
+        "task": {
+            "intent": "file",
+            "target": "list",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:25:49.520453",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:26:12.718536",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "Robotics research papers"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:31:09.065563",
+        "task": {
+            "intent": "file",
+            "target": "list",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 11:31:35.911875",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "robotics"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-05-29 19:52:36.811875",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 19:52:42.269275",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-29 19:52:47.233606",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 12:24:28.245584",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 12:24:51.699319",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "what is robotics"
+        },
+        "result": {
+            "success": true,
+            "query": "what is robotics"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 12:28:20.769003",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 14:30:33.741379",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "robotics"
+        },
+        "result": {
+            "success": true,
+            "query": "robotics"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 14:33:16.499776",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 14:34:02.967527",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "why is the assistant not responding"
+        },
+        "result": {
+            "success": true,
+            "query": "why is the assistant not responding"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 20:46:56.930643",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "voice assistant troubleshooting"
+        },
+        "result": {
+            "success": true,
+            "query": "voice assistant troubleshooting"
+        }
+    },
+    {
+        "timestamp": "2026-05-30 20:47:12.433454",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "voice assistant troubleshooting"
+        },
+        "result": {
+            "success": true,
+            "query": "voice assistant troubleshooting"
+        }
+    },
+    {
+        "timestamp": "2026-06-01 13:23:10.088327",
+        "task": {
+            "intent": "terminal",
+            "target": "open",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: terminal -> open"
+        }
+    },
+    {
+        "timestamp": "2026-06-02 13:17:52.057429",
+        "task": {
+            "intent": "message",
+            "target": "",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: message -> "
+        }
+    },
+    {
+        "timestamp": "2026-06-02 13:18:14.873362",
+        "task": {
+            "intent": "text_response",
+            "target": "",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: text_response -> "
+        }
+    },
+    {
+        "timestamp": "2026-06-03 19:45:39.936246",
+        "task": {
+            "intent": "file",
+            "target": "create",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: file -> create"
+        }
+    },
+    {
+        "timestamp": "2026-06-04 20:58:09.350981",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-04 20:58:55.153581",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "JSON plan format explanation"
+        },
+        "result": {
+            "success": true,
+            "query": "JSON plan format explanation"
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:33:46.172680",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:33:46.178463",
+        "task": {
+            "intent": "terminal",
+            "target": "pwd",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "output": "/home/ahilan/ai-assistant\n"
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:33:56.883331",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "explain firefox"
+        },
+        "result": {
+            "success": true,
+            "query": "explain firefox"
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:34:06.876137",
+        "task": {
+            "intent": "file",
+            "target": "create",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: file -> create"
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:34:08.885380",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-04 21:34:08.888414",
+        "task": {
+            "intent": "explain",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: explain -> firefox"
+        }
+    },
+    {
+        "timestamp": "2026-06-05 13:07:27.079125",
+        "task": {
+            "intent": "file",
+            "target": "create",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: file -> create"
+        }
+    },
+    {
+        "timestamp": "2026-06-05 19:47:08.925846",
+        "task": {
+            "intent": "file",
+            "target": "list",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "files": [
+                "test_actions.py",
+                "demo.txt",
+                "memory",
+                "touch",
+                "test_executive_agent.py",
+                "test_screen_memory.py",
+                "test_controller.py",
+                "test_window_awareness.py",
+                "test_ocr.py",
+                "python3",
+                "scripts",
+                "test_screen_change.py",
+                "test_chat_memory.py",
+                "test_screen_awarness.py",
+                "test",
+                "configs",
+                "test.wav",
+                "test_task_history.py",
+                "test_desktop_agent.py",
+                "test_screen_understanding.py",
+                "test_screen_awarness.p",
+                "test_ask_chat.py",
+                "subl",
+                "testdummy.py",
+                "voices",
+                "test_folder",
+                "test_chat_latency.py",
+                "test_project_memory.py",
+                "core",
+                "test_persistent_project_memory.py",
+                "test_piper_wav.py",
+                "demo_project",
+                "screen.png",
+                "test_whisper.py",
+                "test_requests_speed.py",
+                "test_code_actions.py",
+                "test_router_speed.py",
+                "test_desktop_speed.py",
+                "temp",
+                "ScreenUnderstandingAgent:",
+                "OCRtest.py",
+                "archive",
+                "venv",
+                "models",
+                "test_editor_actions.py",
+                "test_desktop_full.py",
+                "test_whisper_speed.py",
+                "test_project_actions.py",
+                "test_screen_context.py",
+                "memory.json",
+                "V",
+                "test_sc.py",
+                "test_action_executor.py",
+                "{}",
+                "test_screen.py",
+                "test_desktop_tasks.py",
+                "testt.py",
+                "demo.py",
+                "test_window_context.py",
+                "main.py",
+                "test_project_status.py",
+                "test_load_speed.py",
+                "calculator",
+                "logs",
+                "ttest.py",
+                "data",
+                "test_file_actions.py",
+                "test_desktop_actions.py",
+                "test_persistent_task_history.py",
+                "test_goal_execution.py",
+                "executor_test.txt",
+                "tests",
+                "test_piper_speed.py",
+                "hello.txt",
+                "test_intent_classifier.py",
+                "test_json_memory.py",
+                "modules",
+                "test_file_handlers.py",
+                "image_size_test.py",
+                "test_task_inference.py"
+            ]
+        }
+    },
+    {
+        "timestamp": "2026-06-05 20:06:07.409656",
+        "task": {
+            "intent": "file",
+            "target": "list",
+            "query": ""
+        },
+        "result": {
+            "success": true,
+            "files": [
+                "test_actions.py",
+                "demo.txt",
+                "memory",
+                "touch",
+                "test_executive_agent.py",
+                "test_screen_memory.py",
+                "test_controller.py",
+                "test_window_awareness.py",
+                "test_ocr.py",
+                "python3",
+                "scripts",
+                "test_screen_change.py",
+                "test_chat_memory.py",
+                "test_screen_awarness.py",
+                "test",
+                "configs",
+                "test.wav",
+                "test_task_history.py",
+                "test_desktop_agent.py",
+                "test_screen_understanding.py",
+                "test_screen_awarness.p",
+                "test123",
+                "test_ask_chat.py",
+                "subl",
+                "testdummy.py",
+                "voices",
+                "test_folder",
+                "test_chat_latency.py",
+                "test_project_memory.py",
+                "core",
+                "test_persistent_project_memory.py",
+                "test_piper_wav.py",
+                "demo_project",
+                "screen.png",
+                "test_whisper.py",
+                "test_requests_speed.py",
+                "test_code_actions.py",
+                "test_router_speed.py",
+                "test_desktop_speed.py",
+                "temp",
+                "ScreenUnderstandingAgent:",
+                "called",
+                "OCRtest.py",
+                "archive",
+                "venv",
+                "models",
+                "test_editor_actions.py",
+                "test_desktop_full.py",
+                "test_whisper_speed.py",
+                "test_project_actions.py",
+                "test_screen_context.py",
+                "memory.json",
+                "V",
+                "test_sc.py",
+                "test_action_executor.py",
+                "{}",
+                "test_screen.py",
+                "test_desktop_tasks.py",
+                "testt.py",
+                "demo.py",
+                "test_window_context.py",
+                "main.py",
+                "test_project_status.py",
+                "test_load_speed.py",
+                "calculator",
+                "logs",
+                "ttest.py",
+                "data",
+                "test_file_actions.py",
+                "test_desktop_actions.py",
+                "test_persistent_task_history.py",
+                "test_goal_execution.py",
+                "executor_test.txt",
+                "tests",
+                "test_piper_speed.py",
+                "hello.txt",
+                "test_intent_classifier.py",
+                "test_json_memory.py",
+                "modules",
+                "test_file_handlers.py",
+                "image_size_test.py",
+                "test_task_inference.py"
+            ]
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:10:32.635709",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "github"
+        },
+        "result": {
+            "success": true,
+            "query": "github"
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:11:27.929772",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "github"
+        },
+        "result": {
+            "success": true,
+            "query": "github"
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:29:25.440541",
+        "task": {
+            "intent": "open_website",
+            "target": "github",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:29:35.976364",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "github"
+        },
+        "result": {
+            "success": true,
+            "query": "github"
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:39:04.967749",
+        "task": {
+            "intent": "open_website",
+            "target": "github",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-05 21:39:15.508739",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "github"
+        },
+        "result": {
+            "success": true,
+            "query": "github"
+        }
+    },
+    {
+        "timestamp": "2026-06-06 12:44:15.434312",
+        "task": {
+            "intent": "open_website",
+            "target": "github",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-06 12:44:26.054998",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "about github"
+        },
+        "result": {
+            "success": true,
+            "query": "about github"
+        }
+    },
+    {
+        "timestamp": "2026-06-06 12:44:39.186959",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "github"
+        },
+        "result": {
+            "success": true,
+            "query": "github"
+        }
+    },
+    {
+        "timestamp": "2026-06-06 13:17:07.017658",
+        "task": {
+            "intent": "google_search",
+            "target": "",
+            "query": "funny jokes"
+        },
+        "result": {
+            "success": true,
+            "query": "funny jokes"
+        }
+    },
+    {
+        "timestamp": "2026-06-06 13:17:25.134162",
+        "task": {
+            "intent": "say_funny_joke",
+            "target": "",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: say_funny_joke -> "
+        }
+    },
+    {
+        "timestamp": "2026-06-06 13:17:40.924994",
+        "task": {
+            "intent": "say_joke",
+            "target": "",
+            "query": ""
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: say_joke -> "
+        }
+    },
+    {
+        "timestamp": "2026-06-08 20:53:58.242749",
+        "task": {
+            "intent": "window",
+            "target": "list"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: window -> list"
+        }
+    },
+    {
+        "timestamp": "2026-06-08 21:06:31.412918",
+        "task": {
+            "intent": "window",
+            "target": "list"
+        },
+        "result": {
+            "success": true,
+            "windows": [
+                "Desktop Icons 1",
+                "Create Project Structure \u2014 Mozilla Firefox",
+                "ahilan@Ahilan-Victus: ~/ruby",
+                "~/ruby/test_executor_window.py - Sublime Text (UNREGISTERED)"
+            ]
+        }
+    },
+    {
+        "timestamp": "2026-06-11 21:07:55.642651",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: screen -> click_text"
+        }
+    },
+    {
+        "timestamp": "2026-06-11 21:08:11.257083",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: screen -> click_text"
+        }
+    },
+    {
+        "timestamp": "2026-06-11 21:08:48.100695",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|Hello from executor"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: screen -> type_at_text"
+        }
+    },
+    {
+        "timestamp": "2026-06-11 21:13:07.344323",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 165,
+            "y": 210
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:04:53.343548",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: window -> focus"
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:04:53.346404",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: screen -> type_at_text"
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:04:53.347832",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter"
+        },
+        "result": {
+            "success": false,
+            "error": "Capability not supported: keyboard -> enter"
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:11:07.306411",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:11:15.645949",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:11:15.755174",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:19:42.921138",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:19:49.132372",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:19:49.242541",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:50:20.068859",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:51:17.365346",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 1262,
+            "y": 496
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:51:54.572965",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 672,
+            "y": 210
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:56:02.655069",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:56:10.707028",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 199,
+            "y": 237
+        }
+    },
+    {
+        "timestamp": "2026-06-13 11:56:18.474734",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|hello"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:01:11.359533",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:01:19.047572",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 199,
+            "y": 237
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:01:27.190373",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|hello"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:35:18.445735",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:35:26.135531",
+        "task": {
+            "intent": "screen",
+            "target": "click_text",
+            "query": "Ask"
+        },
+        "result": {
+            "success": true,
+            "x": 1172,
+            "y": 996
+        }
+    },
+    {
+        "timestamp": "2026-06-13 12:35:35.141196",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|hello"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 20:02:05.454462",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 20:21:59.897054",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-13 20:25:30.953361",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 11:33:30.712782",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 11:35:35.464320",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:27:03.039676",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:00.740350",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:03.808403",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:04.727609",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:08.209942",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:10.964255",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:11.480546",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:14.448128",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:16.842504",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:17.353723",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:38:58.318886",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:01.904517",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:02.925624",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:06.647505",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:10.029310",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:11.023774",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:14.817675",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:18.203854",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:39:19.207174",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:53:28.759935",
+        "task": {
+            "intent": "open_app",
+            "target": "firefox",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:53:31.349150",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:53:32.143541",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:57:51.962029",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:57:55.195958",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:57:56.180400",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:58:32.493223",
+        "task": {
+            "intent": "window",
+            "target": "focus",
+            "query": "Firefox"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:58:35.746263",
+        "task": {
+            "intent": "screen",
+            "target": "type_at_text",
+            "query": "Ask|What is robotics?"
+        },
+        "result": {
+            "success": true
+        }
+    },
+    {
+        "timestamp": "2026-06-14 12:58:37.025820",
+        "task": {
+            "intent": "keyboard",
+            "target": "enter",
+            "query": ""
+        },
+        "result": {
+            "success": true
+        }
+    }
+]
